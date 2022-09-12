@@ -129,7 +129,7 @@ body{
 }
 .card-text{
 	opacity: 0.5;
-	min-height: 5rem;
+	min-height: 10rem;
 	color: #000000;
 }
 .card-title:hover{
